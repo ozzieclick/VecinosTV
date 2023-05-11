@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/x79znk2g29t3pwm7ygk2"
+#EXTM3U 
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol HD
 http://177.93.50.203:4000/play/1117/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol SD
