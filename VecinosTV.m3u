@@ -1,17 +1,17 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/x79znk2g29t3pwm7ygk2"
-#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol HD
+#EXTM3U 
+#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol HD 
 http://177.93.50.203:4000/play/1117/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol SD
+#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="Caracol SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18567_dark_360w_270h.png" group-title="Colombia" tvg-shift="-4",Caracol SD 
 http://181.78.24.187:8006/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO 
 http://186.101.207.117:9955/play/a0be/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO 2 
 http://186.101.207.117:9955/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO +
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO + 
 http://186.101.207.117:9955/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO Family 
 http://45.228.234.162:24000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO Xtreme 
 http://45.228.234.162:24000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO POP
+#EXTINF:-1 tvg-id="HBOPop.do" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Peliculas" tvg-shift="-4",HBO POP 
 http://138.185.15.250:8000/play/a06q/index.m3u8
